@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PERSONS>
+	<PERSON USERID="E01">
+		<NAME>zhangsan</NAME>
+		<AGE>20</AGE>
+		<TEL>1234567</TEL>
+		<EMAIL>123@qq.com</EMAIL>
+	</PERSON>
+	<PERSON USERID="E02">
+		<NAME>lisi</NAME>
+		<AGE>27</AGE>
+		<TEL>7654312</TEL>
+		<EMAIL>abc@bupt.edu.cn</EMAIL>
+	</PERSON>
+	<PERSON USERID="E03">
+		<NAME>wangwu</NAME>
+		<AGE>35</AGE>
+		<TEL>012356</TEL>
+		<EMAIL>sadfsd@163.com</EMAIL>
+	</PERSON>
+	<PERSON USERID="E04">
+		<NAME>zhaoliu</NAME>
+		<AGE>43</AGE>
+		<TEL>9876543</TEL>
+		<EMAIL>45645@gmail.com</EMAIL>
+	</PERSON>
+
+
+
+</PERSONS>
